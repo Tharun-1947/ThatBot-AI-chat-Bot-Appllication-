@@ -1,0 +1,12 @@
+# Environment variables (SECRETS!)
+**/.env
+
+# Python virtual environment & cache
+/backend/venv/
+/backend/__pycache__/
+
+# Node dependencies (HUGE FOLDER)
+/frontend/node_modules
+
+# Build folder
+/frontend/build
